@@ -100,7 +100,7 @@ wumpus_kb.ask_if_true(~P41)
 ![image](https://user-images.githubusercontent.com/75235427/175760195-1813561e-7d95-430f-bb7b-171948dcc272.png)
 
 ### Propositional logic:
-![image](https://user-images.githubusercontent.com/75235427/175760196-2a95e524-02fe-44c4-9c8b-9187a99c1420.png)
+![image](https://user-images.githubusercontent.com/75235427/175760256-ba244fab-d89c-42fa-acad-59d2bf1bb460.png)
 ### Starting of the Game:
 ![image](https://user-images.githubusercontent.com/75235427/175760200-b4ebd880-2a6d-48e2-83a8-8e3e94df1626.png)
 ### Mid of the Game:
