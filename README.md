@@ -95,16 +95,19 @@ wumpus_kb.ask_if_true(~P41)
 ~~~
 ## OUTPUT
 ### Checking in algorithm:
-![output4](outttt1.png)
-![output5](fin.png)
+![image](https://user-images.githubusercontent.com/75235427/175760165-f415ca3e-f54b-4116-8a12-3418ac78abc6.png)
+
+![image](https://user-images.githubusercontent.com/75235427/175760195-1813561e-7d95-430f-bb7b-171948dcc272.png)
+
 ### Propositional logic:
-![output6](log.png)
-### Starting of the game:
-![output1](STATR.png)
-### Mid of the game:
-![output2](BEF.png)
-### end of the game:
-![output3](OVER.png)
+![image](https://user-images.githubusercontent.com/75235427/175760196-2a95e524-02fe-44c4-9c8b-9187a99c1420.png)
+### Starting of the Game:
+![image](https://user-images.githubusercontent.com/75235427/175760200-b4ebd880-2a6d-48e2-83a8-8e3e94df1626.png)
+### Mid of the Game:
+![image](https://user-images.githubusercontent.com/75235427/175760208-c79320bd-a25c-4751-91a2-be71606fc935.png)
+### End of the Game:
+![image](https://user-images.githubusercontent.com/75235427/175760217-f974ae1f-9a86-4bc0-8214-33f50d8853c7.png)
+
 ## RESULT
 Thus, the developed agent can predict the next move in the wumpus game using propositional logic sentences .
 
