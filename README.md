@@ -26,7 +26,11 @@ Using wumpus_kb.tell() to define the environment of the wumpus game.
 Using propositional Logic defines the possibility of agent's next move.
 ### STEP 7:
 Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
-## PROGRAM
+## PROGRAM:
+```
+Developed By: Saran M
+Reg. No: 212220230044
+```
 ~~~
 from utils import *
 from logic import *
